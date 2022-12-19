@@ -1,1 +1,2 @@
 These are the original source codes mentioned in the reseach article " A universal deep learning methods for fast spatial frequency shift imaging". We are trying to make our code more normative and readable.
+We'll firstly show how to generate simple label-free samples like dots, lines and cureves and how to choose complex samples in the folder named "data". Then we'll show how to generate SFS images using coherent model and incoherent model respectively. At last we'll offer the traditional reconstruction algorithm by matlab 2020a and deep-learning codes by python 3.7.
