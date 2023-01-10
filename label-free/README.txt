@@ -1,0 +1,4 @@
+1. CalculateMetrics.mlx is used to calculate MS-SSIM,SSIM and PSNR of images in the 'gt' and 'images' folders.
+2. traditional_alogrithm.mlx is used to simulate the forward imaging process of label-free SFS imaging and recover a super-resolution imaging.
+3. The 'Dots,line,curve' folder is used to generate some simple structure as ground truth. Some car logoa, enterprise logoa, paper-cuts and other patterns can be used as complex samples.
+4.DataAugumentation.mlx is used to generate wide-field (WF) images and spatial-frequency shift (SFS) images from ground truth (GT) images. It's also used to generates more data by flip and random rotation.
