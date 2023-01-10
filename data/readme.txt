@@ -1,1 +1,0 @@
-This foler offers matlab codes to simulate and generate SFS images using coherent and incoherent models in the 'label-free' folder and 'labeled' folder, respectively. We also offers some raw data in the 'dataset' folder for testing.
