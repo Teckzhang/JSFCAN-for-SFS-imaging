@@ -1,0 +1,3 @@
+1. SIM.mlx is used to calculate simulate the forward imaging process of labeled SFS imaging and recover a super-resolution imaging using SIM algorithm.
+2. DataAugumentationForSIM.mlx is used to generate wide-field (WF) images and spatial-frequency shift (SFS) images from ground truth (GT) images. It's also used to generates more data by flip and random rotation.
+3. BioSR data can be reffer to "https://figshare.com/articles/dataset/BioSR/13264793".
