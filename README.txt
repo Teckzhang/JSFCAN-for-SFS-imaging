@@ -1,2 +1,2 @@
-These are the original source codes mentioned in the reseach article " A universal deep learning methods for fast spatial frequency shift imaging". We are trying to make our code more normative and readable.
+These are the original source codes mentioned in the reseach article " Alternative deep learning methods for fast spatial frequency shift imaging". We are trying to make our code more normative and readable.
 We'll show how to generate SFS images using coherent model and incoherent model respectively and offer the traditional reconstruction algorithm by matlab 2020a. We also offers some raw data in the 'dataset' folder for testing. Deep-learning codes by python 3.7 will be offered later.
